@@ -1,2 +1,9 @@
 # VD09_host
- creating website and uploading it on hosting
+### Игра КЛИКЕР на Flask
+
+Реализована регистрация, вход по логину-паролю и игра с сохранением кликов для каждого зарегистрированного
+
+Установите зависимости:
+   ```bash
+   pip install -r requirements.txt
+   ```
